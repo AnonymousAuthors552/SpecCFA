@@ -1,4 +1,3 @@
-Final program subpaths:
 1:	e18ce18e e190e192 e19ae1f8
 2:	e2eee168 e18ce196
 3:	e208e21c e21ee224
@@ -7,4 +6,3 @@ Final program subpaths:
 7:	e18ce196 e19ae2f2
 9:	e08ae08c e0bee078
 10:	e07ee084 e084e2e4
-All bytes: 68
